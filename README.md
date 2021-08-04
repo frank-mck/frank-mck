@@ -59,9 +59,9 @@
  ### 📈 GitHub Stats
 
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frank-mck&show_icons=true&count_private=true&theme=react&hide=html" alt ="frank's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=frank-mck&show_icons=true&count_private=true&theme=react" alt ="frank's github stats" />
  </p>
   
  <p align="center">
-  <img alt="Frank's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frank-mck&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <img alt="Frank's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frank-mck&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=html" />
  </p>
