@@ -63,5 +63,5 @@
  </p>
   
  <p align="center">
-  <img alt="Frank's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frank-mck&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=html,css" />
+  <img alt="Frank's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frank-mck&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
  </p>
