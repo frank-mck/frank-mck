@@ -59,7 +59,7 @@
  ### 📈 GitHub Stats
 
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frank-mck&show_icons=true&count_private=true&theme=react" alt ="frank's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=frank-mck&show_icons=true&count_private=true&theme=react&hide=html" alt ="frank's github stats" />
  </p>
   
  <p align="center">
