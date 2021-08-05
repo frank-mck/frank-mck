@@ -25,7 +25,9 @@
   <a href ='https://github.com/frank-mck/bowling-challenge'><img width="300" src ="https://github-readme-stats.vercel.app/api/pin/?username=frank-mck&repo=bowling-challenge&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A"></a>
 
   <a href ='https://github.com/frank-mck/chitter-challenge'><img width="300" src ="https://github-readme-stats.vercel.app/api/pin/?username=frank-mck&repo=chitter-challenge&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A"></a>
-  
+</p>
+
+<p align ='left'>
   <a href ='https://github.com/frank-mck/acebook-rails'><img width="300" src ="https://github-readme-stats.vercel.app/api/pin/?username=frank-mck&repo=acebook-rails&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A"></a>
  </p>
 
@@ -48,6 +50,70 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <!-- <img src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white"> -->
 <div/>
+ 
+ ### Technical Knowledge
+
+<table>
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>Technologies</th>
+      <th>Testing Frameworks</th>
+      <th>Concepts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="vertical-align: top">
+        <ul>
+          <li>JavaScript</li>
+          <li>Ruby</li>
+          <li>HTML5</li>
+          <li>CSS3/SASS</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Node.js</li>
+          <li>Express</li>
+          <li>React</li>
+          <li>AJAX</li>
+          <li>Bootstrap</li>
+          <li>JQuery</li>
+          <li>Ruby on Rails</li>
+          <li>Sinatra</li>
+          <li>MongoDB</li>
+          <li>PostgreSQL</li>
+          <li>Heroku</li>
+          <li>Git</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Jest</li>
+          <li>Jasmine</li>
+          <li>RSpec</li>
+          <li>Capybara</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>XP/Agile methodology</li>
+          <li>TDD/BDD</li>
+          <li>BEM</li>
+          <li>OOP/D</li>
+          <li>MVC Pattern</li>
+          <li>RESTful APIs</li>
+          <li>Team collaboration</li>
+          <li>Pair programming</li>
+          <li>Continuous Integration & Deployment</li>
+          <li>Git workflow</li>
+          <li>Code review</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
  
  ## 🔥 Streak Stats
 
