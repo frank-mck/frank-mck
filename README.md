@@ -22,11 +22,13 @@
 ## My Top Projects
 
 <p align ='left'>
-  <a href ='https://github.com/frank-mck/bowling-challenge'><img width="282" src ="https://github-readme-stats.vercel.app/api/pin/?username=frank-mck&repo=bowling-challenge&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A"></a>
+  <a href ='https://github.com/frank-mck/bowling-challenge'><img width="300" src ="https://github-readme-stats.vercel.app/api/pin/?username=frank-mck&repo=bowling-challenge&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A"></a>
+ </p
 
-  <a href ='https://github.com/frank-mck/chitter-challenge'><img width="282" src ="https://github-readme-stats.vercel.app/api/pin/?username=frank-mck&repo=chitter-challenge&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A"></a>
+  <a href ='https://github.com/frank-mck/chitter-challenge'><img width="300" src ="https://github-readme-stats.vercel.app/api/pin/?username=frank-mck&repo=chitter-challenge&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A"></a>
 
- <a href ='https://github.com/frank-mck/bank-tech-test-js'><img width="282" src ="https://github-readme-stats.vercel.app/api/pin/?username=frank-mck&repo=bank-tech-test-js&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A"></a>
+<p align ='left'>
+ <a href ='https://github.com/frank-mck/bank-tech-test-js'><img width="300" src ="https://github-readme-stats.vercel.app/api/pin/?username=frank-mck&repo=bank-tech-test-js&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A"></a>
  
   <a href ='https://github.com/frank-mck/acebook-rails'><img width="300" src ="https://github-readme-stats.vercel.app/api/pin/?username=frank-mck&repo=acebook-rails&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A"></a>
  </p>
