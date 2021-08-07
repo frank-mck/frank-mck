@@ -6,7 +6,7 @@
  - I'm studying: Node.js
  - 2021 Goals: Learn React & Node.js
 
- ## Conect with me
+ ### Connect with me:
  
  <div align="left">
  <a href="https://www.linkedin.com/in/frank-mckenna-769b1815a/">
