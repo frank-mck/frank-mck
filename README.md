@@ -115,6 +115,9 @@
   </tbody>
 </table>
  
+ After completing a full stack developer bootcamp with Makers Academy that focusses heavily on best coding practices, I can confidently say I can TDD effectively following the “Red, Green, Refactor, Commit” cycle, I follow best coding practices using the four common OO principles to structure my code thats readable, reusable and maintainable, and I am an effective debugger, approaching the stack trace methodically to gather information and get visibility using console.log, p or the debugger to set a breakpoint in the code.
+
+ 
  ## 🔥 Streak Stats
 
 <p align="center">
