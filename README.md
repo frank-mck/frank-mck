@@ -19,7 +19,7 @@
     <img alt="twitter" title="My Twitter" src="https://img.shields.io/badge/twitter-0A0A0A?style=for-the-badge&logo=twitter&logoColor=white"></a>
      <a href="https://www.codewars.com/users/frankmckenna2">
     <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/></a>
- <a href="file:///Users/frankmckenna/Downloads/Frank%20CV%20Developer%2001_21_2021%20(1).pdf">
+ <a href="file:///Users/frankmckenna/Downloads/Frank%20CV%20Developer%2001_21_2021%20(1).pdf" target='_blank'>
     <img src="https://img.shields.io/badge/CV-%23AD2C27?style=for-the-badge&logo=CV&logoColor=white"/></a>
  </div>
 
@@ -35,10 +35,10 @@
 ## Languages and Tools
 
 <div align="left">
-<!-- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<!-- <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> -->
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
  <img src="https://img.shields.io/badge/SASS-1572B6?style=for-the-badge&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
@@ -116,9 +116,21 @@
   </tbody>
 </table>
  
- ## 👨‍🎓 Makers Academy (May 2021 - August 2021)
+ ## Education
  
-After completing a full stack developer bootcamp with Makers, that focusses heavily on best coding practices, I can confidently say I can TDD effectively following the “Red, Green, Refactor, Commit” cycle, I follow best coding practices using the four common OO principles to structure my code thats readable, reusable and maintainable, and I am an effective debugger, approaching the stack trace methodically to gather information and get visibility using console.log, p or the debugger to set a breakpoint in the code.
+ ### 👨‍🎓 Makers Academy (May 2021 - August 2021)
+ 
+- Built applications using a Test Driven approach, using best practice coding techniques.
+- Frequently collaborated in a driver, navigator style in order to problem solve efficiently, requiring teamwork and communication
+- Followed the Model, View, Controller software design pattern.
+- Regularly practiced the four principles of Object Oriented Programming (encapsulation, abstraction, inheritance, polymorphism)
+- Agile/XP
+- Team collaboration
+- JavaScript, Node.js, Express, Ruby, Ruby on Rails, CSS, PSQL
+- RSpec, Jasmine, Jest, Capybara
+
+ 
+After completing a software developer bootcamp with Makers, that focuses heavily on best coding practices, I can confidently say I can TDD effectively following the “Red, Green, Refactor, Commit” cycle, I follow best coding practices using the four common OO principles to structure my code that's readable, reusable and maintainable, and I am an effective debugger, approaching the stack trace methodically to gather information and get visibility using console.log, p or the debugger to set a breakpoint in the code.
 
  
  ## 🔥 Streak Stats
