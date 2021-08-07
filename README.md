@@ -7,7 +7,6 @@
  - 2021 Goals: Learn React & Node.js
 
  ### Connect with me:
- <i class="gsicon-twitter"></i>
  
  <div align="left">
  <a href="https://www.linkedin.com/in/frank-mckenna-769b1815a/">
@@ -20,7 +19,7 @@
     <img alt="twitter" title="My Twitter" src="https://img.shields.io/badge/twitter-0A0A0A?style=for-the-badge&logo=twitter&logoColor=white"></a>
      <a href="https://www.codewars.com/users/frankmckenna2">
     <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/></a>
- <a href="https://github.com/frank-mck/CV">
+ <a href="https://docs.google.com/presentation/d/1TB9-COMZAhaHVx9fkGqUy6Fm7yS3FUAqhw9pqpwh1gk/edit?usp=sharing">
     <img src="https://img.shields.io/badge/CV-%23AD2C27?style=for-the-badge&logo=CV&logoColor=white"/></a>
  </div>
 
