@@ -6,15 +6,6 @@
  - I'm studying: Node.js
  - 2021 Goals: Learn React & Node.js
 
-## My Top Projects
-
-<p align ='left'>
-  <a href ='https://github.com/frank-mck/bowling-challenge'><img width="282" src ="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=frank-mck&repo=bowling-challenge&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A"></a>
-  <a href ='https://github.com/frank-mck/chitter-challenge'><img width="282" src ="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=frank-mck&repo=chitter-challenge&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A"></a>
-  <a href ='https://github.com/frank-mck/bank-tech-test-js'><img width="282" src ="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=frank-mck&repo=bank-tech-test-js&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A"></a>
-  <a href ='https://github.com/frank-mck/acebook-rails'><img width="282" src ="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=frank-mck&repo=acebook-rails&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A"></a>
- </p>
- 
  ## Conect with me
  
  <div align="left">
@@ -29,6 +20,15 @@
      <a href="https://www.codewars.com/users/frankmckenna2">
     <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/></a>
  </div>
+
+## My Top Projects
+
+<p align ='left'>
+  <a href ='https://github.com/frank-mck/bowling-challenge'><img width="282" src ="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=frank-mck&repo=bowling-challenge&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A"></a>
+  <a href ='https://github.com/frank-mck/chitter-challenge'><img width="282" src ="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=frank-mck&repo=chitter-challenge&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A"></a>
+  <a href ='https://github.com/frank-mck/bank-tech-test-js'><img width="282" src ="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=frank-mck&repo=bank-tech-test-js&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A"></a>
+  <a href ='https://github.com/frank-mck/acebook-rails'><img width="282" src ="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=frank-mck&repo=acebook-rails&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A"></a>
+ </p>
 
 ## Languages and Tools
 
