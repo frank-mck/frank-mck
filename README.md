@@ -1,4 +1,4 @@
-### Hi there, I'm Frank
+### Hi there, I'm Frank 👋
  
  ## A Software Developer
  
