@@ -19,7 +19,7 @@
     <img alt="twitter" title="My Twitter" src="https://img.shields.io/badge/twitter-0A0A0A?style=for-the-badge&logo=twitter&logoColor=white"></a>
      <a href="https://www.codewars.com/users/frankmckenna2">
     <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/></a>
- <a href="https://files.slack.com/files-pri/T03ALA7H4-F02B7AR05A4/image.png">
+ <a href="Frank CV Developer 01_21_2021.pdf">
     <img src="https://img.shields.io/badge/CV-%23AD2C27?style=for-the-badge&logo=CV&logoColor=white"/></a>
  </div>
 
