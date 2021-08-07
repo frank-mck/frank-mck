@@ -1,17 +1,4 @@
-## Hi there, I'm Frank
-
-<div align="left">
- <a href="https://www.linkedin.com/in/frank-mckenna-769b1815a/">
-    <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-     <a href="https://codepen.io/frankeez/details/PoNLopK">
-    <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=1F222A"></a>
- <a href="mailto:frankmckenna@rocketmail.com">
-  <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/Frank60110202">
-    <img alt="twitter" title="My Twitter" src="https://img.shields.io/badge/twitter-0A0A0A?style=for-the-badge&logo=twitter&logoColor=white"></a>
-     <a href="https://www.codewars.com/users/frankmckenna2">
-    <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/></a>
- </div>
+### Hi there, I'm Frank
  
  ## A Software Developer
  
@@ -27,6 +14,21 @@
   <a href ='https://github.com/frank-mck/bank-tech-test-js'><img width="282" src ="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=frank-mck&repo=bank-tech-test-js&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A"></a>
   <a href ='https://github.com/frank-mck/acebook-rails'><img width="282" src ="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=frank-mck&repo=acebook-rails&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A"></a>
  </p>
+ 
+ ## Conect with me
+ 
+ <div align="left">
+ <a href="https://www.linkedin.com/in/frank-mckenna-769b1815a/">
+    <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+     <a href="https://codepen.io/frankeez/details/PoNLopK">
+    <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=1F222A"></a>
+ <a href="mailto:frankmckenna@rocketmail.com">
+  <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/Frank60110202">
+    <img alt="twitter" title="My Twitter" src="https://img.shields.io/badge/twitter-0A0A0A?style=for-the-badge&logo=twitter&logoColor=white"></a>
+     <a href="https://www.codewars.com/users/frankmckenna2">
+    <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/></a>
+ </div>
 
 ## Languages and Tools
 
