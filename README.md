@@ -9,6 +9,7 @@
  ### Connect with me:
  
  <div align="left">
+ <i class="gsicon-twitter"></i>
  <a href="https://www.linkedin.com/in/frank-mckenna-769b1815a/">
     <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
      <a href="https://codepen.io/frankeez/details/PoNLopK">
