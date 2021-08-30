@@ -3,7 +3,7 @@
  ## A Software Developer
  
  - I'm working on: [portfolio](https://secret-headland-85962.herokuapp.com/)
- - I'm studying: Node.js
+ - I'm studying: Java
  - 2021 Goals: Learn React & Node.js
 
  ### Connect with me:
@@ -50,7 +50,7 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<!-- <img src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white"> -->
+<img src="https://img.shields.io/badge/Java-3EAAAF?style=for-the-badge&logo=java&logoColor=white">
 <div/>
  
  ### Technical Knowledge
@@ -69,6 +69,7 @@
       <td style="vertical-align: top">
         <ul>
           <li>JavaScript</li>
+         <li>Java</li>
           <li>Ruby</li>
           <li>HTML5</li>
           <li>CSS3/SASS</li>
@@ -96,6 +97,7 @@
           <li>Jasmine</li>
           <li>RSpec</li>
           <li>Capybara</li>
+         <li>JUnit</li>
         </ul>
       </td>
       <td style="vertical-align: top">
