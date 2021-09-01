@@ -2,7 +2,7 @@
  
  ## A Software Developer
  
- - status: Job hunting 👀
+ - Status: Job hunting 👀
  - I'm working on: [portfolio](https://secret-headland-85962.herokuapp.com/)
  - I'm studying: Java
  - 2021 Goals: Learn React & Node.js
