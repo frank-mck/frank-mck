@@ -3,8 +3,7 @@
  ## A Software Developer
  
  - Status: Job hunting 👀
- - I'm working on: [portfolio](https://secret-headland-85962.herokuapp.com/)
- - I'm studying: Java
+ - I'm studying: TypeScript
  - 2021 Goals: Learn React & Node.js
 
  ### Connect with me:
