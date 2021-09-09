@@ -38,9 +38,9 @@
 <div align="left">
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  <img src="https://img.shields.io/badge/Java-3EAAAF?style=for-the-badge&logo=java&logoColor=white">
+ <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
  <img src="https://img.shields.io/badge/TypeScript-3EAAAF?style=for-the-badge&logo=typescript&logoColor=white">
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
  <img src="https://img.shields.io/badge/SASS-1572B6?style=for-the-badge&logo=sass&logoColor=white">
@@ -135,7 +135,7 @@
 - RSpec, Jasmine, Jest, Capybara
 
  
-After completing a software developer bootcamp with Makers, that focuses heavily on best coding practices, I can confidently say I can TDD effectively following the “Red, Green, Refactor, Commit” cycle, I follow best coding practices using the four common OO principles to structure my code that's readable, reusable and maintainable, and I am an effective debugger, approaching the stack trace methodically to gather information and get visibility using console.log, p or the debugger to set a breakpoint in the code.
+After completing a software developer Bootcamp that focuses on using best coding practices to create clean, tested and reusable code. I can confidently say I can TDD effectively following the “Red, Green, Refactor” cycle, I follow best coding practices using the four common OO principles to structure my code that's readable, reusable and maintainable, and I am an effective debugger, approaching the stack trace methodically to gather information and get visibility using console.log, p or the debugger to set a breakpoint in the code.
 
  
  ## 🔥 Streak Stats
