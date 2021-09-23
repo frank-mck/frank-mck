@@ -20,7 +20,7 @@
     <img alt="twitter" title="My Twitter" src="https://img.shields.io/badge/twitter-0A0A0A?style=for-the-badge&logo=twitter&logoColor=white"></a>
      <a href="https://www.codewars.com/users/frankmckenna2">
     <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/></a>
- <a href="https://github.com/frank-mck/personal-portfolio/raw/main/img/Frank%20Mckenna%20CV%20V2.pdf" target='_blank'>
+ <a href="https://github.com/frank-mck/personal-portfolio/raw/main/img/Frank%20Mckenna%20CV%20V3.pdf" target='_blank'>
     <img src="https://img.shields.io/badge/CV-%23AD2C27?style=for-the-badge&logo=CV&logoColor=white"/></a>
  </div>
 
