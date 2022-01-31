@@ -4,7 +4,7 @@
  
  - Status: Job hunting 👀
  - I'm studying: TypeScript
- - What I'm working on: [Instagram](https://github.com/frank-mck/instagram)
+ - What I'm working on: [LinkedIn](https://github.com/frank-mck/linkedin)
  - 2021 Goals: Learn React & Node.js
 
  ### Connect with me:
