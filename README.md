@@ -84,6 +84,7 @@
           <li>Node.js</li>
           <li>Express</li>
           <li>React</li>
+          <li>Redux</li>         
           <li>AJAX</li>
           <li>Bootstrap</li>
           <li>JQuery</li>
@@ -102,6 +103,7 @@
           <li>RSpec</li>
           <li>Capybara</li>
          <li>JUnit</li>
+         <li>React testing library</li>
         </ul>
       </td>
       <td style="vertical-align: top">
