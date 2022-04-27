@@ -127,7 +127,7 @@
  
  ## Education
  
- ### 👨‍🎓 Makers Academy (May 2021 - August 2021)
+ ### 👨‍🎓 Makers Academy (May 2021 - September 2021)
  
 - Built applications using a Test Driven approach, using best practice coding techniques.
 - Frequently collaborated in a driver, navigator style in order to problem solve efficiently, requiring teamwork and communication
