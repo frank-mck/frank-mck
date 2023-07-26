@@ -3,7 +3,7 @@
  ## A Software Developer
  
  - Status: Job hunting 👀
- - I'm studying: TypeScript
+ - I'm studying: TypeScript & Node.js
  - What I'm working on: [LinkedIn](https://github.com/frank-mck/linkedin)
 
  ### Connect with me:
