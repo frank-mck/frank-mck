@@ -4,7 +4,7 @@
  
  - Status: Job hunting 👀
  - I'm studying: TypeScript & Node.js
- - What I'm working on: [LinkedIn](https://github.com/frank-mck/linkedin)
+ - What I'm working on: Personal Portfolio 2.0
 
  ### Connect with me:
  
