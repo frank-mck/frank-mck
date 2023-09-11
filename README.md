@@ -5,13 +5,14 @@
  - Status: Job hunting 👀
  - I'm studying: TypeScript & Node.js
  - What I'm working on: Personal Portfolio 2.0
+ - Check out my new portfolio: https://frank-mckenna.com/
 
  ### Connect with me:
  
  <div align="left">
  <a href="https://www.linkedin.com/in/frank-mckenna-769b1815a/">
     <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-     <a href="https://frank-mckenna.netlify.app/">
+     <a href="https://frank-mckenna.com/">
     <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=1F222A"></a>
  <a href="mailto:frankmckenna@rocketmail.com">
   <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
