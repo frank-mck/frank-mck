@@ -16,12 +16,8 @@
     <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=1F222A"></a>
  <a href="mailto:frankmckenna@rocketmail.com">
   <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/Frank60110202">
-    <img alt="twitter" title="My Twitter" src="https://img.shields.io/badge/twitter-0A0A0A?style=for-the-badge&logo=twitter&logoColor=white"></a>
      <a href="https://www.codewars.com/users/frankmckenna2">
     <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/></a>
- <a href="https://github.com/frank-mck/codify/files/12260332/Copy.of.Copy.of.Frank.Mckenna.CV.V002.1.pdf" target='_blank'>
-    <img src="https://img.shields.io/badge/CV-%23AD2C27?style=for-the-badge&logo=CV&logoColor=white"/></a>
  </div>
 
 ## My Top Projects
